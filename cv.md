@@ -10,11 +10,11 @@ Sergej Bopp
 * Telegram: send_text
 * Skype: hp.zstyle
 
-#About Me
+# About Me
 
 I am currently taking RS-School and Yandex.Praktikum courses. My German level is **B1** and my English barely reaches **A2** at the moment. However, I am working on improving my language skills on a daily basis.
 
-#Skills
+# Skills
 
 * HTML & CSS
   * Adaptive
@@ -31,7 +31,7 @@ I am currently taking RS-School and Yandex.Praktikum courses. My German level is
   * Figma
   * Adobe Photoshop
 
-#Code example
+# Code example
 ```javascript
   const smiley = '(o゜▽゜)o☆';
   console.log(`hello world ${smiley}`);
@@ -39,13 +39,13 @@ I am currently taking RS-School and Yandex.Praktikum courses. My German level is
   // funny smiley, isn't it?
 ```
 
-#Education
+# Education
 
 * **University, specialisation: Computer software and automated systems (specialist).**
 * **RS-School: Stage 1 (till now)**
 * **Yandex.Praktikum: Web-development (till now)**
 
-#Language skills
+# Language skills
 
 * **English: A1-A2**
 * **Deutsch: B1**
