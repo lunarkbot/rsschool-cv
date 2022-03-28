@@ -1,1 +1,1 @@
-https://z-style-org.github.io/rsschool-cv/cv
+https://z-style-org.github.io/rsschool-cv/
